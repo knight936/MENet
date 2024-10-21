@@ -2,7 +2,7 @@
 
 This code is based on tensorflow. The test results on the real dataset are as follows:
 
-## ![real images.](./test_images/real/test images.png)
+## ![real images](https://github.com/knight936/Single-image-reflection-removal/blob/main/test_images/real/test%20images.png)
 
 
 ## Setup
