@@ -1,4 +1,4 @@
-# Single image reflection removal utilizing multi-scale spatial attention and feature enhancement network
+# Multi-scale spatial attention and network enhancement for single image reflection removal
 
 This code is based on tensorflow. The test results on the real dataset are as follows:
 
